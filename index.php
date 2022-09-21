@@ -17,15 +17,15 @@
             <!--esquerda-left-->
             <div class="left-content">
                 <div>
-                    <i class="fas-fa-search"></i>
+                <i class="fa-solid fa-magnifying-glass"></i>
                     <h3 class="left-content-heading">Encontre assuntos do seu interesse</h3>
                 </div>
                 <div>
-                    <i class="fas-fa-users"></i>
+                <i class="fa-regular fa-user"></i>
                     <h3 class="left-content-heading">Veja o que as pessoas estão falando</h3>
                 </div>
                 <div>
-                    <i class="fas-fa-comment"></i>
+                <i class="fa-regular fa-comments"></i>
                     <h3 class="left-content-heading">Junte-se aos comntários</h3>
                 </div>
             </div>
