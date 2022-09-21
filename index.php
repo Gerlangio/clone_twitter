@@ -20,6 +20,14 @@
                     <i class="fas-fa-search"></i>
                     <h3 class="left-content-heading"></h3>
                 </div>
+                <div>
+                    <i class="fas-fa-search"></i>
+                    <h3 class="left-content-heading"></h3>
+                </div>
+                <div>
+                    <i class="fas-fa-search"></i>
+                    <h3 class="left-content-heading"></h3>
+                </div>
             </div>
         </div>
         <div class="direita-right">direita-right</div>
