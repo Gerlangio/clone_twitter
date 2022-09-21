@@ -1,0 +1,18 @@
+/**********************************************************
+1. Universal style (typography, etc)
+2. Main Section style
+3. Left Section
+4. Right Section
+5. Footer
+**********************************************************/
+
+/*******************************************
+1. Universal style
+*******************************************/
+* {
+    /*acolchoamento*/
+    padding: 0;
+    /*margem*/
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
