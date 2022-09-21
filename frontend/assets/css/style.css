@@ -6,12 +6,35 @@
 5. Footer
 **********************************************************/
 
+/********************************************
+* //Dicionário//
+* padding - acolchoamento
+* margin - margem
+* list-style: none - estilo de lista nenhuma
+* height - altura
+*********************************************/
+
 /*******************************************
 1. Universal style
 *******************************************/
 * {
-    padding: 0;                         /*acolchoamento*/
-    margin: 0;                          /*margem*/
+    padding: 0;
+    margin: 0;
     font-family: 'Roboto', sans-serif;
-    list-style: none;                   /*estilo de lista nenhuma*/
+    list-style: none;
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+/*******************************************
+2. Main Section
+*******************************************/
+.main-page {
+    
 }
