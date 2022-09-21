@@ -14,19 +14,19 @@
 <body>
     <section class="main-page">
         <div class="left">
-            esquerda-left
+            <!--esquerda-left-->
             <div class="left-content">
                 <div>
                     <i class="fas-fa-search"></i>
-                    <h3 class="left-content-heading"></h3>
+                    <h3 class="left-content-heading">Encontre assuntos do seu interesse</h3>
                 </div>
                 <div>
-                    <i class="fas-fa-search"></i>
-                    <h3 class="left-content-heading"></h3>
+                    <i class="fas-fa-users"></i>
+                    <h3 class="left-content-heading">Veja o que as pessoas estão falando</h3>
                 </div>
                 <div>
-                    <i class="fas-fa-search"></i>
-                    <h3 class="left-content-heading"></h3>
+                    <i class="fas-fa-comment"></i>
+                    <h3 class="left-content-heading">Junte-se aos comntários</h3>
                 </div>
             </div>
         </div>
