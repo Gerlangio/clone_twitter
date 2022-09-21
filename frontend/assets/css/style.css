@@ -36,5 +36,8 @@ html {
 2. Main Section
 *******************************************/
 .main-page {
-    
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    height: 100vh;
+    grid-template-rows: 1fr min-content;
 }
