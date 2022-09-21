@@ -10,9 +10,8 @@
 1. Universal style
 *******************************************/
 * {
-    /*acolchoamento*/
-    padding: 0;
-    /*margem*/
-    margin: 0;
+    padding: 0;                         /*acolchoamento*/
+    margin: 0;                          /*margem*/
     font-family: 'Roboto', sans-serif;
+    list-style: none;                   /*estilo de lista nenhuma*/
 }
