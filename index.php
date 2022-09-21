@@ -13,7 +13,15 @@
 
 <body>
     <section class="main-page">
-        <div class="left">esquerda-left</div>
+        <div class="left">
+            esquerda-left
+            <div class="left-content">
+                <div>
+                    <i class="fas-fa-search"></i>
+                    <h3 class="left-content-heading"></h3>
+                </div>
+            </div>
+        </div>
         <div class="direita-right">direita-right</div>
         <footer>footer-rodapé</footer>
     </section>
