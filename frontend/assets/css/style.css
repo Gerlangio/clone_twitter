@@ -12,6 +12,9 @@
 * margin - margem
 * list-style: none - estilo de lista nenhuma
 * height - altura
+* template - modelo
+* left - esquerda
+* 
 *********************************************/
 
 /*******************************************
@@ -40,4 +43,13 @@ html {
     grid-template-columns: repeat(2,1fr);
     height: 100vh;
     grid-template-rows: 1fr min-content;
+}
+
+/*******************************************
+3. Left Section
+*******************************************/
+.left {
+    grid-column: 1/2;
+    grid-row: 1/2;
+    background: #1da1f5;
 }
