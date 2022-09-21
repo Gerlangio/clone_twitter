@@ -14,7 +14,7 @@
 <body>
     <section class="main-page">
         <div class="left">
-            <!--esquerda-left-->
+            esquerda-left
             <div class="left-content">
                 <div>
                 <i class="fa-solid fa-magnifying-glass"></i>
@@ -30,7 +30,16 @@
                 </div>
             </div>
         </div>
-        <div class="direita-right">direita-right</div>
+        <div class="right">
+            direita-right
+            <div class="middle-content">
+                <i class="fa-brands fa-twitter"></i></i>
+                <h1>Veja o que está acontecendo no mundo agora</h1>
+                <h4>Entre no Twitter agora</h4>
+                <a href="increva-se.php" class="increva-se">Inscreva-se</a>
+                <a href="login.php" class="log-in">Log in</a>
+            </div>
+        </div>
         <footer>footer-rodapé</footer>
     </section>
 </body>
