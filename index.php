@@ -13,7 +13,7 @@
 
 <body>
     <section class="main-page">
-        <div class="esquerda-left">esquerda-left</div>
+        <div class="left">esquerda-left</div>
         <div class="direita-right">direita-right</div>
         <footer>footer-rodapé</footer>
     </section>
