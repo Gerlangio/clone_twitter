@@ -81,16 +81,4 @@ html {
 .right {
     grid-column: 2/3;
     grid-row: 1/2;
-<<<<<<< HEAD
-=======
-}
-
-.middle-contente {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    display: flex;
-    flex-direction: column;
->>>>>>> 965a84179b41d98302b935d3cdd2aa11f325f58d
 }
