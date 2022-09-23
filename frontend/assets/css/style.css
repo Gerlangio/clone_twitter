@@ -74,3 +74,11 @@ html {
 .left-content-heading {
     font-size: 2rem;
 }
+
+/*******************************************
+3. Right Section
+*******************************************/
+.right {
+    grid-column: 2/3;
+    grid-row: 1/2;
+}
